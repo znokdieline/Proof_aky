@@ -1,0 +1,8 @@
+0.- Hacer un fork de este Sandbox.
+/1.- Crear un API Key de Giphy y asignarla en la constante 'apiKey' del archivo ./src/redux/actions/contentActions
+2.- Implementar un caja de busqueda en la ruta '/' y mostrar los gifs correspondientes al texto ingresado.
+3.- Crear un componente que muestre el gif, el título del gif, un link hacia el origen del gif.
+4.- El componente anterior tambien debe permitir al usuario marcar/desmarcar un gif como "Favorito".
+5.- Los gifs marcados como favoritos, deben ser listados en la ruta '/favorites'.
+6.- Implementar paginación para ambas rutas.
+7.- Dar estilo al sitio (Header, Footer, NavBar) y usar preferentemente componentes de la librería 'Ant Design' (https://ant.design/components/overview/)
