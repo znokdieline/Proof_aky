@@ -1,5 +1,5 @@
 import Axios from "axios";
-const apiKey = "xix2DJIfwiXMVOtoBEXEZZib4zhPLIXB";
+const apiKey = "";
 
 const giphyApi = (endpoint) => {
   return Axios(`https://api.giphy.com/v1/gifs/${endpoint}&api_key=${apiKey}`);
